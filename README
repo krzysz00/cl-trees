@@ -1,0 +1,5 @@
+===cl-trees===
+
+This is a library for trees of various tpyes in Common Lisp.
+Initially, only binary trees (plain and search) will be supported, but
+more tree types will be added. The library will be (gasp!), well documented.
