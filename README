@@ -1,9 +1,9 @@
 ===cl-trees===
 
-This is a library for trees of various types in Common Lisp.
-Initially, only binary trees (plain and search) will be supported, but
-more tree types will be added eventually. The library will be (gasp!),
-well documented, and have a generic function interface.
+This is a library for trees of various types in Common Lisp. The
+amount of implemented tree types will be low initially, but expansion
+is planned. The library will be (gasp!), well documented, and have a
+generic function interface.
 
 The operations supported by this library will be:
  * Lookup
@@ -11,13 +11,14 @@ The operations supported by this library will be:
  * Delete
  * Rebalance (if applicable)
  * Convert between tree types
+ * Serialize a tree to a list
  * And much more ... 
 
-The projhect is hosted at GitHub ( https://github.com/krzysz00/cl-trees )
+The project is hosted at GitHub ( https://github.com/krzysz00/cl-trees )
 The issue tracking, documentation, etc. are located there.
 
 For questions, comments, etc. contact 
 krzysdrewniak <AT> gmail <DOT> com
 
-
+cl-trees is licenced under the MIT licence.
 
